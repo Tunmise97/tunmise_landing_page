@@ -1,0 +1,101 @@
+#mainNavbar{
+    background-color:#370617;
+}
+h2{
+    color:#75082e;
+}
+.navbar.scrolled{
+    background:#9e546e; 
+    transition: background 500ms ;
+}
+#mainNavbar{
+    font-size: 1.5rem
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link{
+    color: white;
+}
+#mainNavbar .nav-link:hover{
+    color: #ea1c2c;
+}
+
+#mainNavbar .navbar-brand{
+    color: #ea1c2c;
+
+}
+.card-text{
+    
+    font-family:'Cardo', serif;
+    font-size:1.6rem;
+}
+.breaker{
+   width:50px;
+    height:80px;
+
+}
+.content{
+    margin-top:100px;
+}
+.hero-cta{
+    font-size: 22px;
+    color: #fff;
+    margin-bottom: 80px;
+    background-color:#370617 ;
+    text-decoration: none;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    margin-top: 40px;
+    display: inline-block;
+    padding: 10px 20px;
+    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s transform 0.25s;   
+}
+
+.hero-cta:hover{
+    border-color:#fa5e03 ;
+    color:white;
+    box-shadow:0 0.5em 0.5em -0.4em #fa5e03 ;
+    transform:translateY(-0.25em);
+    cursor: pointer;
+}
+.lead{
+    font-family:'Cardo', serif; 
+    color:#75082e;
+    line-height: 2;
+    font-size:1.7rem;
+}
+.lead-about{
+    font-family:'Cardo', serif; 
+    color:#75082e;
+    line-height: 2;
+    font-size:1.5rem
+}
+.grid_services{
+    margin-top:100px;
+    font-family:'Cardo', serif; 
+    color:#75082e;
+    line-height: 2;
+}
+h4, p{
+    font-family:'Cardo', serif; 
+    color:#75082e;
+    line-height: 2;  
+}
+
+P{
+    border 3px 
+}
+.form-group{
+    margin-top:100px;
+}
+.title{
+    margin-top:100px;
+    color:#75082e;
+} 
+.send-message{
+    background-color: #75082e;
+}
+.footer{
+    background-color: #75082e;
+    margin-top:100px;
+}
